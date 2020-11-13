@@ -170,8 +170,6 @@ xlabel('UTC time','interpreter','latex','fontname', 'times','fontsize',14)
 ylabel('depth (m)','interpreter','latex','fontname', 'times','fontsize',14)
 ylim([-100 0])
  title('(d) East Current','interpreter','latex','fontname', 'times','fontsize',14)
-
-
 %% wave spectra
 figure('Name','KELVIN');
 set(gcf,'color',[1 1 1])
